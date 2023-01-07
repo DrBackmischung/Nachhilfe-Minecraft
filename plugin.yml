@@ -1,0 +1,7 @@
+name: MCLogik
+version: 1.0
+author: Soufiane und Mathis
+main: de.wi2020sebgroup1.nachhilfe.minecraft.Main
+commands:
+  logik:
+    description: Startet Logik Modul
